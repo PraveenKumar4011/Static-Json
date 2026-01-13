@@ -1135,7 +1135,30 @@
       "street": "Street 101",
       "suite": "Apt. 208",
       "city": "Chicago",
-      "zipcode": "43433",
+      "zipcode": "860855",
+      "geo": {
+        "lat": "33.5215",
+        "lng": "-38.6068"
+      }
+    },
+    "phone": "+1-660-523-8968",
+    "website": "john.johnson86.com",
+    "company": {
+      "name": "Alpha Systems",
+      "catchPhrase": "Innovative scalable solution",
+      "bs": "deliver next-gen platforms"
+    }
+  }
+  {
+    "id": 51,
+    "name": "John Kumar",
+    "username": "johnKumar.johnson86",
+    "email": "john.Kumar@test.org",
+    "address": {
+      "street": "Street 101",
+      "suite": "Apt. 208",
+      "city": "Chicago",
+      "zipcode": "401111",
       "geo": {
         "lat": "33.5215",
         "lng": "-38.6068"
