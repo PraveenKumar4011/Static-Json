@@ -1,0 +1,1152 @@
+[
+  {
+    "id": 1,
+    "name": "Jordan Jones",
+    "username": "jordan.jones71",
+    "email": "jordan.jones71@mail.com",
+    "address": {
+      "street": "Street 31",
+      "suite": "Apt. 981",
+      "city": "Austin",
+      "zipcode": "90889",
+      "geo": {
+        "lat": "-30.2992",
+        "lng": "-63.5876"
+      }
+    },
+    "phone": "+1-545-112-9085",
+    "website": "jordan.jones71.com",
+    "company": {
+      "name": "TechCorp",
+      "catchPhrase": "Innovative scalable solution",
+      "bs": "deliver next-gen platforms"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Alex Davis",
+    "username": "alex.davis47",
+    "email": "alex.davis47@test.org",
+    "address": {
+      "street": "Street 138",
+      "suite": "Apt. 585",
+      "city": "San Francisco",
+      "zipcode": "61123",
+      "geo": {
+        "lat": "7.4253",
+        "lng": "118.616"
+      }
+    },
+    "phone": "+1-589-736-6241",
+    "website": "alex.davis47.com",
+    "company": {
+      "name": "Alpha Systems",
+      "catchPhrase": "Innovative scalable solution",
+      "bs": "deliver next-gen platforms"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Jane Smith",
+    "username": "jane.smith20",
+    "email": "jane.smith20@mail.com",
+    "address": {
+      "street": "Street 167",
+      "suite": "Apt. 760",
+      "city": "Seattle",
+      "zipcode": "11741",
+      "geo": {
+        "lat": "32.0224",
+        "lng": "5.5946"
+      }
+    },
+    "phone": "+1-403-941-8871",
+    "website": "jane.smith20.com",
+    "company": {
+      "name": "NextGen Solutions",
+      "catchPhrase": "Innovative scalable solution",
+      "bs": "deliver next-gen platforms"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Chris Jones",
+    "username": "chris.jones50",
+    "email": "chris.jones50@test.org",
+    "address": {
+      "street": "Street 119",
+      "suite": "Apt. 45",
+      "city": "San Francisco",
+      "zipcode": "84735",
+      "geo": {
+        "lat": "-76.7487",
+        "lng": "72.7923"
+      }
+    },
+    "phone": "+1-809-627-7044",
+    "website": "chris.jones50.com",
+    "company": {
+      "name": "TechCorp",
+      "catchPhrase": "Innovative scalable solution",
+      "bs": "deliver next-gen platforms"
+    }
+  },
+  {
+    "id": 5,
+    "name": "John Smith",
+    "username": "john.smith49",
+    "email": "john.smith49@example.com",
+    "address": {
+      "street": "Street 114",
+      "suite": "Apt. 736",
+      "city": "San Francisco",
+      "zipcode": "41645",
+      "geo": {
+        "lat": "27.0499",
+        "lng": "-109.7864"
+      }
+    },
+    "phone": "+1-457-391-5863",
+    "website": "john.smith49.com",
+    "company": {
+      "name": "FutureSoft",
+      "catchPhrase": "Innovative scalable solution",
+      "bs": "deliver next-gen platforms"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Alex Brown",
+    "username": "alex.brown4",
+    "email": "alex.brown4@example.com",
+    "address": {
+      "street": "Street 50",
+      "suite": "Apt. 898",
+      "city": "San Francisco",
+      "zipcode": "91201",
+      "geo": {
+        "lat": "-81.875",
+        "lng": "-57.5408"
+      }
+    },
+    "phone": "+1-349-687-8080",
+    "website": "alex.brown4.com",
+    "company": {
+      "name": "NextGen Solutions",
+      "catchPhrase": "Innovative scalable solution",
+      "bs": "deliver next-gen platforms"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Morgan Williams",
+    "username": "morgan.williams26",
+    "email": "morgan.williams26@test.org",
+    "address": {
+      "street": "Street 64",
+      "suite": "Apt. 749",
+      "city": "Austin",
+      "zipcode": "71971",
+      "geo": {
+        "lat": "-39.5646",
+        "lng": "-131.4137"
+      }
+    },
+    "phone": "+1-551-458-7012",
+    "website": "morgan.williams26.com",
+    "company": {
+      "name": "NextGen Solutions",
+      "catchPhrase": "Innovative scalable solution",
+      "bs": "deliver next-gen platforms"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Sam Thomas",
+    "username": "sam.thomas6",
+    "email": "sam.thomas6@mail.com",
+    "address": {
+      "street": "Street 36",
+      "suite": "Apt. 125",
+      "city": "Seattle",
+      "zipcode": "14282",
+      "geo": {
+        "lat": "16.2085",
+        "lng": "17.6004"
+      }
+    },
+    "phone": "+1-959-146-9531",
+    "website": "sam.thomas6.com",
+    "company": {
+      "name": "TechCorp",
+      "catchPhrase": "Innovative scalable solution",
+      "bs": "deliver next-gen platforms"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Jane Thomas",
+    "username": "jane.thomas28",
+    "email": "jane.thomas28@test.org",
+    "address": {
+      "street": "Street 85",
+      "suite": "Apt. 322",
+      "city": "New York",
+      "zipcode": "96831",
+      "geo": {
+        "lat": "-2.5958",
+        "lng": "-134.1892"
+      }
+    },
+    "phone": "+1-953-656-4756",
+    "website": "jane.thomas28.com",
+    "company": {
+      "name": "Alpha Systems",
+      "catchPhrase": "Innovative scalable solution",
+      "bs": "deliver next-gen platforms"
+    }
+  },
+  {
+    "id": 10,
+    "name": "John Jones",
+    "username": "john.jones3",
+    "email": "john.jones3@demo.net",
+    "address": {
+      "street": "Street 167",
+      "suite": "Apt. 1",
+      "city": "Austin",
+      "zipcode": "88681",
+      "geo": {
+        "lat": "-80.4777",
+        "lng": "117.7835"
+      }
+    },
+    "phone": "+1-618-272-6742",
+    "website": "john.jones3.com",
+    "company": {
+      "name": "Alpha Systems",
+      "catchPhrase": "Innovative scalable solution",
+      "bs": "deliver next-gen platforms"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Jane Williams",
+    "username": "jane.williams21",
+    "email": "jane.williams21@example.com",
+    "address": {
+      "street": "Street 45",
+      "suite": "Apt. 695",
+      "city": "New York",
+      "zipcode": "29644",
+      "geo": {
+        "lat": "66.1323",
+        "lng": "153.4303"
+      }
+    },
+    "phone": "+1-261-562-2140",
+    "website": "jane.williams21.com",
+    "company": {
+      "name": "Innova LLC",
+      "catchPhrase": "Innovative scalable solution",
+      "bs": "deliver next-gen platforms"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Jane Miller",
+    "username": "jane.miller22",
+    "email": "jane.miller22@mail.com",
+    "address": {
+      "street": "Street 171",
+      "suite": "Apt. 553",
+      "city": "San Francisco",
+      "zipcode": "22874",
+      "geo": {
+        "lat": "3.6815",
+        "lng": "59.2185"
+      }
+    },
+    "phone": "+1-531-319-3684",
+    "website": "jane.miller22.com",
+    "company": {
+      "name": "FutureSoft",
+      "catchPhrase": "Innovative scalable solution",
+      "bs": "deliver next-gen platforms"
+    }
+  },
+  {
+    "id": 13,
+    "name": "Morgan Miller",
+    "username": "morgan.miller99",
+    "email": "morgan.miller99@demo.net",
+    "address": {
+      "street": "Street 84",
+      "suite": "Apt. 665",
+      "city": "San Francisco",
+      "zipcode": "97100",
+      "geo": {
+        "lat": "71.2812",
+        "lng": "-11.4958"
+      }
+    },
+    "phone": "+1-435-539-4307",
+    "website": "morgan.miller99.com",
+    "company": {
+      "name": "Alpha Systems",
+      "catchPhrase": "Innovative scalable solution",
+      "bs": "deliver next-gen platforms"
+    }
+  },
+  {
+    "id": 14,
+    "name": "Jane Johnson",
+    "username": "jane.johnson62",
+    "email": "jane.johnson62@mail.com",
+    "address": {
+      "street": "Street 66",
+      "suite": "Apt. 291",
+      "city": "Chicago",
+      "zipcode": "23953",
+      "geo": {
+        "lat": "89.2551",
+        "lng": "-23.1792"
+      }
+    },
+    "phone": "+1-957-391-4895",
+    "website": "jane.johnson62.com",
+    "company": {
+      "name": "TechCorp",
+      "catchPhrase": "Innovative scalable solution",
+      "bs": "deliver next-gen platforms"
+    }
+  },
+  {
+    "id": 15,
+    "name": "Sam Anderson",
+    "username": "sam.anderson12",
+    "email": "sam.anderson12@demo.net",
+    "address": {
+      "street": "Street 145",
+      "suite": "Apt. 20",
+      "city": "Seattle",
+      "zipcode": "45121",
+      "geo": {
+        "lat": "9.2465",
+        "lng": "87.6691"
+      }
+    },
+    "phone": "+1-251-806-4793",
+    "website": "sam.anderson12.com",
+    "company": {
+      "name": "NextGen Solutions",
+      "catchPhrase": "Innovative scalable solution",
+      "bs": "deliver next-gen platforms"
+    }
+  },
+  {
+    "id": 16,
+    "name": "John Anderson",
+    "username": "john.anderson12",
+    "email": "john.anderson12@test.org",
+    "address": {
+      "street": "Street 14",
+      "suite": "Apt. 426",
+      "city": "Austin",
+      "zipcode": "33026",
+      "geo": {
+        "lat": "-8.3912",
+        "lng": "168.2487"
+      }
+    },
+    "phone": "+1-236-300-2646",
+    "website": "john.anderson12.com",
+    "company": {
+      "name": "TechCorp",
+      "catchPhrase": "Innovative scalable solution",
+      "bs": "deliver next-gen platforms"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Pat Jones",
+    "username": "pat.jones84",
+    "email": "pat.jones84@demo.net",
+    "address": {
+      "street": "Street 62",
+      "suite": "Apt. 963",
+      "city": "Seattle",
+      "zipcode": "76051",
+      "geo": {
+        "lat": "-3.1558",
+        "lng": "12.9435"
+      }
+    },
+    "phone": "+1-916-458-1192",
+    "website": "pat.jones84.com",
+    "company": {
+      "name": "Alpha Systems",
+      "catchPhrase": "Innovative scalable solution",
+      "bs": "deliver next-gen platforms"
+    }
+  },
+  {
+    "id": 18,
+    "name": "Alex Jones",
+    "username": "alex.jones33",
+    "email": "alex.jones33@mail.com",
+    "address": {
+      "street": "Street 75",
+      "suite": "Apt. 878",
+      "city": "New York",
+      "zipcode": "18084",
+      "geo": {
+        "lat": "45.9611",
+        "lng": "-140.0951"
+      }
+    },
+    "phone": "+1-502-537-5236",
+    "website": "alex.jones33.com",
+    "company": {
+      "name": "FutureSoft",
+      "catchPhrase": "Innovative scalable solution",
+      "bs": "deliver next-gen platforms"
+    }
+  },
+  {
+    "id": 19,
+    "name": "Taylor Wilson",
+    "username": "taylor.wilson35",
+    "email": "taylor.wilson35@test.org",
+    "address": {
+      "street": "Street 167",
+      "suite": "Apt. 851",
+      "city": "New York",
+      "zipcode": "85419",
+      "geo": {
+        "lat": "-83.1637",
+        "lng": "-87.3155"
+      }
+    },
+    "phone": "+1-858-403-5373",
+    "website": "taylor.wilson35.com",
+    "company": {
+      "name": "TechCorp",
+      "catchPhrase": "Innovative scalable solution",
+      "bs": "deliver next-gen platforms"
+    }
+  },
+  {
+    "id": 20,
+    "name": "Taylor Brown",
+    "username": "taylor.brown89",
+    "email": "taylor.brown89@demo.net",
+    "address": {
+      "street": "Street 1",
+      "suite": "Apt. 198",
+      "city": "New York",
+      "zipcode": "59060",
+      "geo": {
+        "lat": "-85.3979",
+        "lng": "95.4619"
+      }
+    },
+    "phone": "+1-705-381-8584",
+    "website": "taylor.brown89.com",
+    "company": {
+      "name": "TechCorp",
+      "catchPhrase": "Innovative scalable solution",
+      "bs": "deliver next-gen platforms"
+    }
+  },
+  {
+    "id": 21,
+    "name": "Morgan Davis",
+    "username": "morgan.davis1",
+    "email": "morgan.davis1@mail.com",
+    "address": {
+      "street": "Street 124",
+      "suite": "Apt. 910",
+      "city": "New York",
+      "zipcode": "79793",
+      "geo": {
+        "lat": "-66.8975",
+        "lng": "-3.8984"
+      }
+    },
+    "phone": "+1-448-414-4924",
+    "website": "morgan.davis1.com",
+    "company": {
+      "name": "Innova LLC",
+      "catchPhrase": "Innovative scalable solution",
+      "bs": "deliver next-gen platforms"
+    }
+  },
+  {
+    "id": 22,
+    "name": "Jane Williams",
+    "username": "jane.williams2",
+    "email": "jane.williams2@test.org",
+    "address": {
+      "street": "Street 155",
+      "suite": "Apt. 219",
+      "city": "Chicago",
+      "zipcode": "23873",
+      "geo": {
+        "lat": "78.6203",
+        "lng": "157.5467"
+      }
+    },
+    "phone": "+1-468-320-6055",
+    "website": "jane.williams2.com",
+    "company": {
+      "name": "FutureSoft",
+      "catchPhrase": "Innovative scalable solution",
+      "bs": "deliver next-gen platforms"
+    }
+  },
+  {
+    "id": 23,
+    "name": "John Johnson",
+    "username": "john.johnson18",
+    "email": "john.johnson18@test.org",
+    "address": {
+      "street": "Street 179",
+      "suite": "Apt. 66",
+      "city": "San Francisco",
+      "zipcode": "17267",
+      "geo": {
+        "lat": "36.7128",
+        "lng": "-124.4105"
+      }
+    },
+    "phone": "+1-899-801-2051",
+    "website": "john.johnson18.com",
+    "company": {
+      "name": "FutureSoft",
+      "catchPhrase": "Innovative scalable solution",
+      "bs": "deliver next-gen platforms"
+    }
+  },
+  {
+    "id": 24,
+    "name": "Sam Smith",
+    "username": "sam.smith43",
+    "email": "sam.smith43@test.org",
+    "address": {
+      "street": "Street 122",
+      "suite": "Apt. 544",
+      "city": "Chicago",
+      "zipcode": "72956",
+      "geo": {
+        "lat": "-5.3105",
+        "lng": "-5.897"
+      }
+    },
+    "phone": "+1-429-969-6479",
+    "website": "sam.smith43.com",
+    "company": {
+      "name": "Alpha Systems",
+      "catchPhrase": "Innovative scalable solution",
+      "bs": "deliver next-gen platforms"
+    }
+  },
+  {
+    "id": 25,
+    "name": "Chris Brown",
+    "username": "chris.brown33",
+    "email": "chris.brown33@test.org",
+    "address": {
+      "street": "Street 96",
+      "suite": "Apt. 875",
+      "city": "Austin",
+      "zipcode": "28636",
+      "geo": {
+        "lat": "51.9684",
+        "lng": "-132.8301"
+      }
+    },
+    "phone": "+1-718-189-9400",
+    "website": "chris.brown33.com",
+    "company": {
+      "name": "Alpha Systems",
+      "catchPhrase": "Innovative scalable solution",
+      "bs": "deliver next-gen platforms"
+    }
+  },
+  {
+    "id": 26,
+    "name": "Morgan Smith",
+    "username": "morgan.smith10",
+    "email": "morgan.smith10@demo.net",
+    "address": {
+      "street": "Street 46",
+      "suite": "Apt. 939",
+      "city": "Austin",
+      "zipcode": "10973",
+      "geo": {
+        "lat": "-29.1362",
+        "lng": "83.0711"
+      }
+    },
+    "phone": "+1-964-237-9665",
+    "website": "morgan.smith10.com",
+    "company": {
+      "name": "Innova LLC",
+      "catchPhrase": "Innovative scalable solution",
+      "bs": "deliver next-gen platforms"
+    }
+  },
+  {
+    "id": 27,
+    "name": "Casey Miller",
+    "username": "casey.miller14",
+    "email": "casey.miller14@example.com",
+    "address": {
+      "street": "Street 76",
+      "suite": "Apt. 361",
+      "city": "Seattle",
+      "zipcode": "35600",
+      "geo": {
+        "lat": "31.7499",
+        "lng": "-65.7651"
+      }
+    },
+    "phone": "+1-781-335-7824",
+    "website": "casey.miller14.com",
+    "company": {
+      "name": "TechCorp",
+      "catchPhrase": "Innovative scalable solution",
+      "bs": "deliver next-gen platforms"
+    }
+  },
+  {
+    "id": 28,
+    "name": "Pat Davis",
+    "username": "pat.davis98",
+    "email": "pat.davis98@demo.net",
+    "address": {
+      "street": "Street 12",
+      "suite": "Apt. 422",
+      "city": "New York",
+      "zipcode": "32490",
+      "geo": {
+        "lat": "-60.1945",
+        "lng": "-92.4349"
+      }
+    },
+    "phone": "+1-530-526-9696",
+    "website": "pat.davis98.com",
+    "company": {
+      "name": "NextGen Solutions",
+      "catchPhrase": "Innovative scalable solution",
+      "bs": "deliver next-gen platforms"
+    }
+  },
+  {
+    "id": 29,
+    "name": "Alex Smith",
+    "username": "alex.smith78",
+    "email": "alex.smith78@mail.com",
+    "address": {
+      "street": "Street 65",
+      "suite": "Apt. 840",
+      "city": "Chicago",
+      "zipcode": "69848",
+      "geo": {
+        "lat": "6.5092",
+        "lng": "103.8343"
+      }
+    },
+    "phone": "+1-382-877-8515",
+    "website": "alex.smith78.com",
+    "company": {
+      "name": "FutureSoft",
+      "catchPhrase": "Innovative scalable solution",
+      "bs": "deliver next-gen platforms"
+    }
+  },
+  {
+    "id": 30,
+    "name": "Chris Brown",
+    "username": "chris.brown98",
+    "email": "chris.brown98@mail.com",
+    "address": {
+      "street": "Street 164",
+      "suite": "Apt. 224",
+      "city": "Seattle",
+      "zipcode": "62280",
+      "geo": {
+        "lat": "53.3564",
+        "lng": "164.3058"
+      }
+    },
+    "phone": "+1-740-595-2064",
+    "website": "chris.brown98.com",
+    "company": {
+      "name": "Alpha Systems",
+      "catchPhrase": "Innovative scalable solution",
+      "bs": "deliver next-gen platforms"
+    }
+  },
+  {
+    "id": 31,
+    "name": "Jordan Smith",
+    "username": "jordan.smith86",
+    "email": "jordan.smith86@demo.net",
+    "address": {
+      "street": "Street 139",
+      "suite": "Apt. 8",
+      "city": "Chicago",
+      "zipcode": "56466",
+      "geo": {
+        "lat": "80.1816",
+        "lng": "-155.5663"
+      }
+    },
+    "phone": "+1-631-826-3417",
+    "website": "jordan.smith86.com",
+    "company": {
+      "name": "NextGen Solutions",
+      "catchPhrase": "Innovative scalable solution",
+      "bs": "deliver next-gen platforms"
+    }
+  },
+  {
+    "id": 32,
+    "name": "Alex Miller",
+    "username": "alex.miller93",
+    "email": "alex.miller93@demo.net",
+    "address": {
+      "street": "Street 3",
+      "suite": "Apt. 24",
+      "city": "Austin",
+      "zipcode": "29150",
+      "geo": {
+        "lat": "31.9802",
+        "lng": "124.049"
+      }
+    },
+    "phone": "+1-807-730-7515",
+    "website": "alex.miller93.com",
+    "company": {
+      "name": "NextGen Solutions",
+      "catchPhrase": "Innovative scalable solution",
+      "bs": "deliver next-gen platforms"
+    }
+  },
+  {
+    "id": 33,
+    "name": "Pat Miller",
+    "username": "pat.miller71",
+    "email": "pat.miller71@example.com",
+    "address": {
+      "street": "Street 13",
+      "suite": "Apt. 491",
+      "city": "Seattle",
+      "zipcode": "82822",
+      "geo": {
+        "lat": "-64.2784",
+        "lng": "-124.3015"
+      }
+    },
+    "phone": "+1-361-196-1424",
+    "website": "pat.miller71.com",
+    "company": {
+      "name": "FutureSoft",
+      "catchPhrase": "Innovative scalable solution",
+      "bs": "deliver next-gen platforms"
+    }
+  },
+  {
+    "id": 34,
+    "name": "Sam Davis",
+    "username": "sam.davis24",
+    "email": "sam.davis24@mail.com",
+    "address": {
+      "street": "Street 196",
+      "suite": "Apt. 893",
+      "city": "New York",
+      "zipcode": "27530",
+      "geo": {
+        "lat": "-14.2399",
+        "lng": "-92.9768"
+      }
+    },
+    "phone": "+1-886-199-2147",
+    "website": "sam.davis24.com",
+    "company": {
+      "name": "TechCorp",
+      "catchPhrase": "Innovative scalable solution",
+      "bs": "deliver next-gen platforms"
+    }
+  },
+  {
+    "id": 35,
+    "name": "John Davis",
+    "username": "john.davis33",
+    "email": "john.davis33@mail.com",
+    "address": {
+      "street": "Street 102",
+      "suite": "Apt. 261",
+      "city": "Seattle",
+      "zipcode": "71851",
+      "geo": {
+        "lat": "61.9997",
+        "lng": "150.4059"
+      }
+    },
+    "phone": "+1-347-344-1919",
+    "website": "john.davis33.com",
+    "company": {
+      "name": "Innova LLC",
+      "catchPhrase": "Innovative scalable solution",
+      "bs": "deliver next-gen platforms"
+    }
+  },
+  {
+    "id": 36,
+    "name": "Sam Wilson",
+    "username": "sam.wilson47",
+    "email": "sam.wilson47@demo.net",
+    "address": {
+      "street": "Street 118",
+      "suite": "Apt. 550",
+      "city": "New York",
+      "zipcode": "22703",
+      "geo": {
+        "lat": "-37.962",
+        "lng": "-0.028"
+      }
+    },
+    "phone": "+1-290-113-4998",
+    "website": "sam.wilson47.com",
+    "company": {
+      "name": "FutureSoft",
+      "catchPhrase": "Innovative scalable solution",
+      "bs": "deliver next-gen platforms"
+    }
+  },
+  {
+    "id": 37,
+    "name": "Alex Anderson",
+    "username": "alex.anderson79",
+    "email": "alex.anderson79@demo.net",
+    "address": {
+      "street": "Street 73",
+      "suite": "Apt. 144",
+      "city": "Chicago",
+      "zipcode": "47094",
+      "geo": {
+        "lat": "-27.7689",
+        "lng": "113.4904"
+      }
+    },
+    "phone": "+1-825-265-8975",
+    "website": "alex.anderson79.com",
+    "company": {
+      "name": "TechCorp",
+      "catchPhrase": "Innovative scalable solution",
+      "bs": "deliver next-gen platforms"
+    }
+  },
+  {
+    "id": 38,
+    "name": "Sam Jones",
+    "username": "sam.jones68",
+    "email": "sam.jones68@test.org",
+    "address": {
+      "street": "Street 107",
+      "suite": "Apt. 31",
+      "city": "New York",
+      "zipcode": "41091",
+      "geo": {
+        "lat": "48.0712",
+        "lng": "9.0309"
+      }
+    },
+    "phone": "+1-412-496-3027",
+    "website": "sam.jones68.com",
+    "company": {
+      "name": "Innova LLC",
+      "catchPhrase": "Innovative scalable solution",
+      "bs": "deliver next-gen platforms"
+    }
+  },
+  {
+    "id": 39,
+    "name": "Jane Jones",
+    "username": "jane.jones45",
+    "email": "jane.jones45@mail.com",
+    "address": {
+      "street": "Street 146",
+      "suite": "Apt. 275",
+      "city": "Chicago",
+      "zipcode": "89029",
+      "geo": {
+        "lat": "73.3111",
+        "lng": "170.897"
+      }
+    },
+    "phone": "+1-857-495-8536",
+    "website": "jane.jones45.com",
+    "company": {
+      "name": "NextGen Solutions",
+      "catchPhrase": "Innovative scalable solution",
+      "bs": "deliver next-gen platforms"
+    }
+  },
+  {
+    "id": 40,
+    "name": "Sam Johnson",
+    "username": "sam.johnson78",
+    "email": "sam.johnson78@mail.com",
+    "address": {
+      "street": "Street 176",
+      "suite": "Apt. 813",
+      "city": "Austin",
+      "zipcode": "71353",
+      "geo": {
+        "lat": "-48.39",
+        "lng": "28.8493"
+      }
+    },
+    "phone": "+1-729-207-5811",
+    "website": "sam.johnson78.com",
+    "company": {
+      "name": "Innova LLC",
+      "catchPhrase": "Innovative scalable solution",
+      "bs": "deliver next-gen platforms"
+    }
+  },
+  {
+    "id": 41,
+    "name": "Casey Miller",
+    "username": "casey.miller66",
+    "email": "casey.miller66@test.org",
+    "address": {
+      "street": "Street 151",
+      "suite": "Apt. 834",
+      "city": "New York",
+      "zipcode": "34136",
+      "geo": {
+        "lat": "-81.807",
+        "lng": "-157.0129"
+      }
+    },
+    "phone": "+1-835-287-2324",
+    "website": "casey.miller66.com",
+    "company": {
+      "name": "Alpha Systems",
+      "catchPhrase": "Innovative scalable solution",
+      "bs": "deliver next-gen platforms"
+    }
+  },
+  {
+    "id": 42,
+    "name": "Chris Wilson",
+    "username": "chris.wilson97",
+    "email": "chris.wilson97@mail.com",
+    "address": {
+      "street": "Street 101",
+      "suite": "Apt. 789",
+      "city": "San Francisco",
+      "zipcode": "67444",
+      "geo": {
+        "lat": "72.5161",
+        "lng": "-84.9515"
+      }
+    },
+    "phone": "+1-636-882-1178",
+    "website": "chris.wilson97.com",
+    "company": {
+      "name": "NextGen Solutions",
+      "catchPhrase": "Innovative scalable solution",
+      "bs": "deliver next-gen platforms"
+    }
+  },
+  {
+    "id": 43,
+    "name": "Casey Miller",
+    "username": "casey.miller57",
+    "email": "casey.miller57@example.com",
+    "address": {
+      "street": "Street 95",
+      "suite": "Apt. 510",
+      "city": "San Francisco",
+      "zipcode": "55437",
+      "geo": {
+        "lat": "23.8451",
+        "lng": "128.4989"
+      }
+    },
+    "phone": "+1-953-145-5859",
+    "website": "casey.miller57.com",
+    "company": {
+      "name": "TechCorp",
+      "catchPhrase": "Innovative scalable solution",
+      "bs": "deliver next-gen platforms"
+    }
+  },
+  {
+    "id": 44,
+    "name": "Pat Anderson",
+    "username": "pat.anderson77",
+    "email": "pat.anderson77@example.com",
+    "address": {
+      "street": "Street 76",
+      "suite": "Apt. 153",
+      "city": "San Francisco",
+      "zipcode": "89104",
+      "geo": {
+        "lat": "-67.6813",
+        "lng": "92.3189"
+      }
+    },
+    "phone": "+1-872-589-6604",
+    "website": "pat.anderson77.com",
+    "company": {
+      "name": "Alpha Systems",
+      "catchPhrase": "Innovative scalable solution",
+      "bs": "deliver next-gen platforms"
+    }
+  },
+  {
+    "id": 45,
+    "name": "Morgan Miller",
+    "username": "morgan.miller66",
+    "email": "morgan.miller66@example.com",
+    "address": {
+      "street": "Street 67",
+      "suite": "Apt. 238",
+      "city": "San Francisco",
+      "zipcode": "48607",
+      "geo": {
+        "lat": "-47.6346",
+        "lng": "130.2579"
+      }
+    },
+    "phone": "+1-544-655-1794",
+    "website": "morgan.miller66.com",
+    "company": {
+      "name": "NextGen Solutions",
+      "catchPhrase": "Innovative scalable solution",
+      "bs": "deliver next-gen platforms"
+    }
+  },
+  {
+    "id": 46,
+    "name": "Pat Smith",
+    "username": "pat.smith74",
+    "email": "pat.smith74@example.com",
+    "address": {
+      "street": "Street 84",
+      "suite": "Apt. 391",
+      "city": "Austin",
+      "zipcode": "29477",
+      "geo": {
+        "lat": "3.1733",
+        "lng": "97.6325"
+      }
+    },
+    "phone": "+1-408-919-7766",
+    "website": "pat.smith74.com",
+    "company": {
+      "name": "NextGen Solutions",
+      "catchPhrase": "Innovative scalable solution",
+      "bs": "deliver next-gen platforms"
+    }
+  },
+  {
+    "id": 47,
+    "name": "Casey Davis",
+    "username": "casey.davis83",
+    "email": "casey.davis83@mail.com",
+    "address": {
+      "street": "Street 134",
+      "suite": "Apt. 871",
+      "city": "San Francisco",
+      "zipcode": "41602",
+      "geo": {
+        "lat": "-50.4497",
+        "lng": "4.1238"
+      }
+    },
+    "phone": "+1-292-784-3854",
+    "website": "casey.davis83.com",
+    "company": {
+      "name": "TechCorp",
+      "catchPhrase": "Innovative scalable solution",
+      "bs": "deliver next-gen platforms"
+    }
+  },
+  {
+    "id": 48,
+    "name": "Morgan Jones",
+    "username": "morgan.jones20",
+    "email": "morgan.jones20@test.org",
+    "address": {
+      "street": "Street 131",
+      "suite": "Apt. 175",
+      "city": "Chicago",
+      "zipcode": "68537",
+      "geo": {
+        "lat": "86.2468",
+        "lng": "128.1472"
+      }
+    },
+    "phone": "+1-762-886-8110",
+    "website": "morgan.jones20.com",
+    "company": {
+      "name": "Alpha Systems",
+      "catchPhrase": "Innovative scalable solution",
+      "bs": "deliver next-gen platforms"
+    }
+  },
+  {
+    "id": 49,
+    "name": "John Smith",
+    "username": "john.smith53",
+    "email": "john.smith53@example.com",
+    "address": {
+      "street": "Street 171",
+      "suite": "Apt. 892",
+      "city": "San Francisco",
+      "zipcode": "27312",
+      "geo": {
+        "lat": "52.1755",
+        "lng": "149.8374"
+      }
+    },
+    "phone": "+1-712-377-1307",
+    "website": "john.smith53.com",
+    "company": {
+      "name": "Alpha Systems",
+      "catchPhrase": "Innovative scalable solution",
+      "bs": "deliver next-gen platforms"
+    }
+  },
+  {
+    "id": 50,
+    "name": "John Johnson",
+    "username": "john.johnson86",
+    "email": "john.johnson86@test.org",
+    "address": {
+      "street": "Street 101",
+      "suite": "Apt. 208",
+      "city": "Chicago",
+      "zipcode": "43433",
+      "geo": {
+        "lat": "33.5215",
+        "lng": "-38.6068"
+      }
+    },
+    "phone": "+1-660-523-8968",
+    "website": "john.johnson86.com",
+    "company": {
+      "name": "Alpha Systems",
+      "catchPhrase": "Innovative scalable solution",
+      "bs": "deliver next-gen platforms"
+    }
+  }
+]
